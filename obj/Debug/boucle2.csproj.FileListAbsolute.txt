@@ -1,0 +1,6 @@
+C:\Users\Moi\source\repos\Boucle\boucle2\boucle2\bin\Debug\boucle2.exe.config
+C:\Users\Moi\source\repos\Boucle\boucle2\boucle2\bin\Debug\boucle2.exe
+C:\Users\Moi\source\repos\Boucle\boucle2\boucle2\bin\Debug\boucle2.pdb
+C:\Users\Moi\source\repos\Boucle\boucle2\boucle2\obj\Debug\boucle2.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\Boucle\boucle2\boucle2\obj\Debug\boucle2.exe
+C:\Users\Moi\source\repos\Boucle\boucle2\boucle2\obj\Debug\boucle2.pdb
