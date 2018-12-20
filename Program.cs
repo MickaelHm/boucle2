@@ -12,7 +12,7 @@ namespace boucle2
         {
             int loop = 0;
             int number = 1;
-            while (loop < 10) // temps que la boucle "loop" est inférieur a 10 répétion, elle continue
+            while (loop < 10) // tant que la boucle "loop" est inférieur a 10 répétions, elle continue
             {
                 Console.WriteLine("Bonjour, je suis le message n°" + number++);
                 loop++;
